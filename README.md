@@ -3,7 +3,7 @@
 &nbsp;&nbsp;&nbsp;
 
 
-<p align="center">Sou um engenheiro de software apaixonado por solucionar problemas complexos através da inovação tecnológica. Gosto de equilibrar minhas habilidades técnicas com a busca constante por novas soluções, o que me proporcionou uma experiência rica em análise, otimização de sistemas e melhoria contínua de software. Sempre aplico esses conhecimentos em consonância com os fundamentos do desenvolvimento ágil.</p>&nbsp;
+<p align="center">Sou um desenvolvedor de software apaixonado por solucionar problemas complexos através da inovação tecnológica. Gosto de equilibrar minhas habilidades técnicas com a busca constante por novas soluções, o que me proporcionou uma experiência rica em análise, otimização de sistemas e melhoria contínua de software. Sempre aplico esses conhecimentos em consonância com os fundamentos do desenvolvimento ágil.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=kyronsatt&theme=radical&mode=weekly" />
