@@ -1,5 +1,5 @@
 
- <img width=40% align="center" src="https://github-readme-stats-pedro-ramon-rodrigues-limas-projects.vercel.app/api?username=pedroramonrlima&show_icons=true&bg_color=00000000" />
+ <img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://t4.ftcdn.net/jpg/04/19/26/97/360_F_419269782_9LsP3TQndMVnZ2j3ZhTPhMjaqQpFAth9.jpg" />
 &nbsp;&nbsp;&nbsp;
 
 
