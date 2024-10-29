@@ -30,7 +30,8 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![N8N](https://img.shields.io/badge/n8n-E10098?style=for-the-badge&logo=n8n&logoColor=white)&nbsp;
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
+<img min-width="400px" max-width="400px" width="400px" align="right" margin-top="30%" src="https://github-readme-stats-pedro-ramon-rodrigues-limas-projects.vercel.app/api?username=pedroramonrlima&show_icons=true&theme=radical&mode=weekly&locale=pt-br" />
 
 #### Stack Secundaria:
 
